@@ -1,6 +1,6 @@
 # Bayesian Possession Value Model — Soccer Analytics
 
-A Bayesian logistic regression framework for estimating the probability that a soccer possession results in a goal, using event-level data from the StatsBomb open data repository.
+A Bayesian logistic regression framework for estimating the value of individual actions based on possession results, using event-level data from the StatsBomb open data repository.
 
 Full writeup: [Medium Article](https://medium.com/@kiran_30122/a-bayesian-approach-to-quantifying-soccer-possession-value-a7d17435bf35)
 
