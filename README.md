@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 Kiran Shah
 MS Analytics, Georgia Tech | Former DC United Analytics
-[LinkedIn](YOUR_LINKEDIN_URL) | [Medium](YOUR_MEDIUM_LINK_HERE)
+[LinkedIn](https://www.linkedin.com/in/kiran-shah-340ax/) | [Medium](https://medium.com/@kiran_30122/a-bayesian-approach-to-quantifying-soccer-possession-value-a7d17435bf35)
 ```
 
 ---
